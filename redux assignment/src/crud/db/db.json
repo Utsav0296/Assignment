@@ -1,0 +1,22 @@
+{
+  "details": [
+    {
+      "id": 5,
+      "name": "tops",
+      "email": "tops@gmail.com",
+      "country": "India"
+    },
+    {
+      "id": 6,
+      "name": "tops",
+      "email": "tops@gmail.com",
+      "country": "India"
+    },
+    {
+      "id": 7,
+      "name": "tops",
+      "email": "tops@gmail.com",
+      "country": "India"
+    }
+  ]
+}
